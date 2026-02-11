@@ -1,5 +1,4 @@
-# messageCompose
-MessageCompose by vPWD
+# messageCompose by vPWD
 
 Bridging the gap between AI potential and human productivity.
 
