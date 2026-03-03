@@ -1,0 +1,49 @@
+{
+    "title": "informal",
+    "content": {
+        "id": "2",
+        "titles": {
+            "nl": "Informele",
+            "en": "Informal",
+            "fr": "Informel",
+            "de": "Informell",
+            "it": "Informale",
+            "es": "Informal",
+            "sv": "Informell",
+            "da": "Uformel"
+        },
+        "prompt": "Please use an informal, friendly way of speaking for this message.",
+        "related_questions": {
+            "nl": "Welke toon zou je gebruiken?",
+            "en": "Which tone of voice would you use?",
+            "fr": "Quel ton de voix utiliseriez-vous ?",
+            "de": "Welchen Tonfall w\u00fcrden Sie verwenden?",
+            "it": "Che tono useresti?",
+            "es": "\u00bfQu\u00e9 tono de voz usar\u00edas?",
+            "sv": "Vilken ton skulle du anv\u00e4nda?",
+            "da": "Hvilken tone ville du bruge?"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Beste [voornaam][achternaam],",
+                "en": "Dear [firstname][lastname],",
+                "fr": "Cher [pr\u00e9nom][nom],",
+                "de": "Sehr geehrte/r [firstname][lastname],",
+                "it": "Gentile [nome][cognome],",
+                "es": "Estimado/a [nombre][apellido],",
+                "sv": "B\u00e4sta [f\u00f6rnamn][efternamn],",
+                "da": "K\u00e6re [fornavn][efternavn],"
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

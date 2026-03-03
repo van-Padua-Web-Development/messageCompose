@@ -1,0 +1,49 @@
+{
+    "title": "Telephone missed in morning",
+    "content": {
+        "id": "21",
+        "titles": {
+            "nl": "Gemiste telefoon (ochtend)",
+            "en": "Missed phone (morning)",
+            "fr": "T\u00e9l\u00e9phone manqu\u00e9 (matin)",
+            "de": "Verpasster Anruf (Vormittag)",
+            "it": "Telefono perso (mattina)",
+            "es": "Tel\u00e9fono perdido (ma\u00f1ana)",
+            "sv": "Missat samtal (f\u00f6rmiddag)",
+            "da": "G\u00e5et glip af telefon (morgen)"
+        },
+        "prompt": "I didn't reach the person on telephone this morning.",
+        "related_questions": {
+            "nl": "Heb je die persoon vanmorgen niet bereikt?",
+            "en": "You didn't reach the person this morning?",
+            "fr": "Vous n'avez pas joint la personne ce matin ?",
+            "de": "Haben Sie die Person heute Morgen nicht erreicht?",
+            "it": "Non hai raggiunto la persona stamattina?",
+            "es": "\u00bfNo contactaste a la persona esta ma\u00f1ana?",
+            "sv": "N\u00e5dde du inte personen i morse?",
+            "da": "N\u00e5ede du ikke personen i morges?"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Het lukte me vanochtend rond [Tijd] niet om u telefonisch te bereiken. Om verder te gaan met waar ik voor belde, heb ik hieronder meer informatie toegevoegd.",
+                "en": "I didn\u2019t manage to reach you by phone this morning around [Time]. To follow up on why I called, I\u2019ve included more information for you below.",
+                "fr": "Je n'ai pas r\u00e9ussi \u00e0 vous joindre par t\u00e9l\u00e9phone ce matin vers [Heure]. Pour faire suite \u00e0 mon appel, j'ai inclus plus d'informations pour vous ci-dessous.",
+                "de": "Ich konnte Sie heute Morgen gegen [Uhrzeit] telefonisch nicht erreichen. Um auf meinen Anruf zur\u00fcckzukommen, habe ich unten weitere Informationen f\u00fcr Sie beigef\u00fcgt.",
+                "it": "Non sono riuscito a raggiungerla telefonicamente stamattina intorno alle [Ora]. Per dar seguito alla mia chiamata, ho incluso di seguito maggiori informazioni per lei.",
+                "es": "Esta ma\u00f1ana sobre las [Hora] no pude contactarte por tel\u00e9fono. Para dar seguimiento a mi llamada, he incluido m\u00e1s informaci\u00f3n para ti a continuaci\u00f3n.",
+                "sv": "Jag lyckades inte n\u00e5 dig via telefon i morse runt [Tid]. F\u00f6r att f\u00f6lja upp varf\u00f6r jag ringde har jag inkluderat mer information \u00e5t dig nedan.",
+                "da": "Jeg kunne ikke f\u00e5 fat i dig via telefon i morges omkring kl. [Tidspunkt]. For at f\u00f8lge op p\u00e5, hvorfor jeg ringede, har jeg inkluderet mere information til dig nedenfor."
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

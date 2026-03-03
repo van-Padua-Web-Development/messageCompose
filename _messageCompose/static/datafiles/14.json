@@ -1,0 +1,49 @@
+{
+    "title": "Reply received",
+    "content": {
+        "id": "14",
+        "titles": {
+            "nl": "Reactie Ontvangen",
+            "en": "Reply Received",
+            "fr": "R\u00e9ponse Re\u00e7ue",
+            "de": "Antwort Erhalten",
+            "it": "Risposta Ricevuta",
+            "es": "Respuesta Recibida",
+            "sv": "Svar Mottaget",
+            "da": "Svar Modtaget"
+        },
+        "prompt": "I want to acknowledge that I received a reply on a previous message.",
+        "related_questions": {
+            "nl": "na",
+            "en": "na",
+            "fr": "na",
+            "de": "na",
+            "it": "na",
+            "es": "na",
+            "sv": "na",
+            "da": "na"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Bedankt voor uw antwoord. ",
+                "en": "Thank you for your reply. ",
+                "fr": "Merci pour votre r\u00e9ponse. ",
+                "de": "Vielen Dank f\u00fcr Ihre Antwort. ",
+                "it": "Grazie per la tua risposta. ",
+                "es": "Gracias por tu respuesta. ",
+                "sv": "Tack f\u00f6r ditt svar. ",
+                "da": "Tak for dit svar. "
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

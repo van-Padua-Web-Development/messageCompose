@@ -1,0 +1,49 @@
+{
+    "title": "Telephone miss morning",
+    "content": {
+        "id": "11",
+        "titles": {
+            "nl": "Telefoon mistochtend",
+            "en": "Telephone misses morning",
+            "fr": "Le t\u00e9l\u00e9phone manque le matin",
+            "de": "Telefon verpasst Morgen",
+            "it": "Il telefono perde la mattina",
+            "es": "El tel\u00e9fono pierde la ma\u00f1ana",
+            "sv": "Telefon missar morgon",
+            "da": "Telefon savner morgen"
+        },
+        "prompt": "I missed the person on the telephone this morning, and want to name the time I tried to call.",
+        "related_questions": {
+            "nl": "nvt",
+            "en": "tbd",
+            "fr": "tbd",
+            "de": "tbd",
+            "it": "tbd",
+            "es": "tbd",
+            "sv": "tbd",
+            "da": "tbd"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Het spijt me dat ik u vanmiddag rond [Tijd] niet telefonisch heb kunnen bereiken. Om op te volgen waarom ik belde, heb ik de details hieronder voor u opgenomen.",
+                "en": "I didn\u2019t manage to reach you by phone this afternoon around [Time].To follow up on why I called, I\u2019ve included the details for you below.",
+                "fr": "Je n'ai pas r\u00e9ussi \u00e0 vous joindre par t\u00e9l\u00e9phone cet apr\u00e8s-midi vers [Heure]. Pour faire suite \u00e0 mon appel, vous trouverez les d\u00e9tails ci-dessous.",
+                "de": "Ich konnte Sie heute Nachmittag gegen [Uhrzeit] telefonisch nicht erreichen. Um zu erl\u00e4utern, warum ich angerufen habe, habe ich Ihnen die Details unten beigef\u00fcgt.",
+                "it": "Non sono riuscito a raggiungerti telefonicamente questo pomeriggio intorno alle [Ora]. Per dare seguito alla mia chiamata, ho incluso i dettagli qui sotto.",
+                "es": "No logr\u00e9 contactarte por tel\u00e9fono esta tarde alrededor de las [Hora]. Para dar seguimiento a mi llamada, he incluido los detalles a continuaci\u00f3n.",
+                "sv": "Jag lyckades inte n\u00e5 dig via telefon i eftermiddags runt [Tid]. F\u00f6r att f\u00f6lja upp anledningen till mitt samtal har jag inkluderat detaljerna nedan.",
+                "da": "Jeg form\u00e5ede ikke at f\u00e5 fat i dig telefonisk her til eftermiddag omkring kl. [Tidspunkt]. For at f\u00f8lge op p\u00e5, hvorfor jeg ringede, har jeg inkluderet detaljerne til dig herunder."
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

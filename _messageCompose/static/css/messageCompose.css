@@ -1,0 +1,110 @@
+.dev-link {
+    position: absolute;
+    left: 10px;
+    bottom: 8px;
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+    background: rgba(0,0,0,0.18);
+    padding: 6px 8px;
+    border-radius: 8px;
+    pointer-events: auto;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+    background-color: #ff9900;
+}
+
+.row {
+    --bs-gutter-x: 30px;
+    --bs-gutter-y: 0;
+
+    /* display: flex */
+    flex-wrap: nowrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+
+    /* margin-right: calc(-0.5 * var(--bs-gutter-x)) */
+    /* margin-left: calc(-0.5 * var(--bs-gutter-x)) */
+}
+
+:root {
+    --lvl-1: #0d6efd;
+    --lvl-1-bg: #f0f7ff;
+    --lvl-2: #198754;
+    --lvl-2-bg: #f1fbf4;
+    --lvl-3: #8a2be2;
+    --lvl-3-bg: #f9f2ff;
+    --lvl-4: #d9480f;
+    --lvl-4-bg: #fff5eb;
+    --lvl-5: #c2185b;
+    --lvl-5-bg: #fff0f6;
+    --badge-gray: #f8f9fa;
+    --text-gray: #6c757d;
+    --border-gray: #dee2e6;
+}
+
+/* 2. Base Badge Styling */
+.badge-lvl {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    border: 1px solid var(--border-gray);
+    background-color: var(--badge-gray);
+    color: var(--text-gray);
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    user-select: none;
+}
+
+/* 3. The Close Icon Logic */
+.badge-lvl .badge-close-icon {
+    display: none !important;
+    order: 2;
+
+    /* Forces icon to the right even if HTML is messy */
+}
+
+.badge-lvl.active .badge-close-icon {
+    display: inline-block !important;
+    font-size: 0.5rem;
+    line-height: 1;
+}
+
+/* 4. Active State Color Mapping */
+.badge-lvl.active.lvl-1 {
+    background-color: var(--lvl-1-bg);
+    color: var(--lvl-1);
+    border-color: var(--lvl-1);
+}
+
+.badge-lvl.active.lvl-2 {
+    background-color: var(--lvl-2-bg);
+    color: var(--lvl-2);
+}
+
+.badge-lvl.active.lvl-3 {
+    background-color: var(--lvl-3-bg);
+    color: var(--lvl-3);
+    border-color: var(--lvl-3);
+}
+
+.badge-lvl.active.lvl-4 {
+    background-color: var(--lvl-4-bg);
+    color: var(--lvl-4);
+    border-color: var(--lvl-4);
+}
+
+.badge-lvl.active.lvl-5 {
+    background-color: var(--lvl-5-bg);
+    color: var(--lvl-5);
+    border-color: var(--lvl-5);
+}
+
+/* 5. Hover Effect (Optional) */
+.badge-lvl:hover {
+    filter: brightness(0.95);
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Telephone missed afternoon",
+    "content": {
+        "id": "12",
+        "titles": {
+            "nl": "Gemiste telefoon (middag)",
+            "en": "Missed phone (afternoon)",
+            "fr": "T\u00e9l\u00e9phone manqu\u00e9 (apr\u00e8s-midi)",
+            "de": "Verpasster Anruf (Nachmittag)",
+            "it": "Telefono perso (pomeriggio)",
+            "es": "Tel\u00e9fono perdido (tarde)",
+            "sv": "Missat samtal (eftermiddag)",
+            "da": "Udeblevet opkald (eftermiddag)"
+        },
+        "prompt": " I didn't reach the person on telephone this afternoon.",
+        "related_questions": {
+            "nl": "naar",
+            "en": "to",
+            "fr": "\u00e0",
+            "de": "nach",
+            "it": "a",
+            "es": "a",
+            "sv": "till",
+            "da": "til"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Het lukte me vanmiddag rond [Tijd] niet om u telefonisch te bereiken.",
+                "en": "I didn\u2019t manage to reach you by phone this afternoon around [Time].",
+                "fr": "Je n'ai pas r\u00e9ussi \u00e0 vous joindre par t\u00e9l\u00e9phone cet apr\u00e8s-midi vers [Heure].",
+                "de": "Ich konnte Sie heute Nachmittag gegen [Uhrzeit] telefonisch nicht erreichen.",
+                "it": "Non sono riuscito a raggiungerti per telefono questo pomeriggio intorno alle [Ora].",
+                "es": "No logr\u00e9 contactarte por tel\u00e9fono esta tarde alrededor de las [Hora].",
+                "sv": "Jag lyckades inte n\u00e5 dig via telefon i eftermiddags runt [Tid].",
+                "da": "Jeg kunne ikke f\u00e5 fat i dig telefonisk i eftermiddags omkring kl. [Tidspunkt]."
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

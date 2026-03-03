@@ -1,0 +1,49 @@
+{
+    "title": "Telephone today",
+    "content": {
+        "id": "23",
+        "titles": {
+            "nl": "Telefoon vandaag",
+            "en": "Telephone today",
+            "fr": "T\u00e9l\u00e9phone aujourd'hui",
+            "de": "Telefon heute",
+            "it": "Telefono oggi",
+            "es": "Tel\u00e9fono hoy",
+            "sv": "Telefon idag",
+            "da": "Telefon i dag"
+        },
+        "prompt": "I want the person to know we had a telephone conversation today.",
+        "related_questions": {
+            "nl": "niet van toepassing",
+            "en": "not applicable",
+            "fr": "non applicable",
+            "de": "nicht anwendbar",
+            "it": "non applicabile",
+            "es": "no aplicable",
+            "sv": "inte till\u00e4mpligt",
+            "da": "ikke relevant"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "We hadden vandaag een telefoongesprek over [Onderwerp].",
+                "en": "We had a phone call today regarding [Topic].",
+                "fr": "Nous avons eu un appel t\u00e9l\u00e9phonique aujourd'hui concernant [Sujet].",
+                "de": "Wir hatten heute ein Telefongespr\u00e4ch bez\u00fcglich [Thema].",
+                "it": "Abbiamo avuto una telefonata oggi riguardante [Argomento].",
+                "es": "Tuvimos una llamada telef\u00f3nica hoy sobre [Tema].",
+                "sv": "Vi hade ett telefonsamtal idag ang\u00e5ende [\u00c4mne].",
+                "da": "Vi havde en telefonsamtale i dag vedr\u00f8rende [Emne]."
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

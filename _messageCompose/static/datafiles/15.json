@@ -1,0 +1,49 @@
+{
+    "title": "No reply received",
+    "content": {
+        "id": "15",
+        "titles": {
+            "nl": "Geen reactie",
+            "en": "No Reply",
+            "fr": "Pas de r\u00e9ponse",
+            "de": "Keine Antwort",
+            "it": "Nessuna risposta",
+            "es": "Sin respuesta",
+            "sv": "Inget svar",
+            "da": "Intet svar"
+        },
+        "prompt": "I want to let the person know I didn't receive a reply from the,",
+        "related_questions": {
+            "nl": "na",
+            "en": "na",
+            "fr": "na",
+            "de": "na",
+            "it": "na",
+            "es": "na",
+            "sv": "na",
+            "da": "na"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Helaas heb ik sindsdien niets meer van je gehoord [Datum].",
+                "en": "Sadly I haven't heard anything back from you since [Date].",
+                "fr": "Malheureusement, je n'ai plus de nouvelles de votre part depuis le [Date].",
+                "de": "Leider habe ich seit [Datum] nichts mehr von Ihnen geh\u00f6rt.",
+                "it": "Purtroppo non ho pi\u00f9 ricevuto tue notizie dal [Data].",
+                "es": "Lamentablemente, no he tenido noticias tuyas desde el [Fecha].",
+                "sv": "Tyv\u00e4rr har jag inte h\u00f6rt n\u00e5got fr\u00e5n dig sedan [Datum].",
+                "da": "Desv\u00e6rre har jeg ikke h\u00f8rt noget fra dig siden [Dato]."
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "title": "formal",
+    "content": {
+        "id": "1",
+        "titles": {
+            "nl": "Formele titel",
+            "en": "Formal title",
+            "fr": "Titre officiel",
+            "de": "Formeller Titel",
+            "it": "Titolo formale",
+            "es": "T\u00edtulo formal",
+            "sv": "Formell titel",
+            "da": "Formel titel"
+        },
+        "prompt": "Use for this text a formal way of writing",
+        "related_questions": {
+            "nl": "Welke toon zou je gebruiken?",
+            "en": "Which tone-of-voice would you use?",
+            "fr": "Quel ton utiliseriez-vous ?",
+            "de": "Welchen Tonfall w\u00fcrden Sie verwenden?",
+            "it": "Quale tono di voce useresti?",
+            "es": "\u00bfQu\u00e9 tono de voz usar\u00edas?",
+            "sv": "Vilken ton skulle du anv\u00e4nda?",
+            "da": "Hvilken tone ville du bruge?"
+        },
+        "composed_text": {
+            "v1": {
+                "nl": "Geachte heer/mevrouw,",
+                "en": "Dear sir/madam,",
+                "fr": "Cher monsieur/Madame,",
+                "de": "Sehr geehrte Damen und Herren,",
+                "it": "Spettabile Signore/Signora,",
+                "es": "Estimado se\u00f1or/se\u00f1ora,",
+                "sv": "B\u00e4sta herr/fru,",
+                "da": "K\u00e6re hr/fru,"
+            },
+            "v2": {
+                "nl": "Tekst versie twee (verbeterd)...",
+                "en": "Text version two (improved)...",
+                "fr": "Texte version deux (am\u00e9lior\u00e9)...",
+                "de": "Textversion zwei (verbessert)...",
+                "it": "Testo versione due (migliorato)...",
+                "es": "Texto versi\u00f3n dos (mejorado)...",
+                "sv": "Textversion tv\u00e5 (f\u00f6rb\u00e4ttrad)...",
+                "da": "Tekst version to (forbedret)..."
+            }
+        }
+    }
+}
