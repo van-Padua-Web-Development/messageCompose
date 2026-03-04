@@ -1,4 +1,4 @@
-from _familySpin import create_app
+from _messageCompose import create_app
 import os
 
 # Create Flask app using the factory
